@@ -2,4 +2,4 @@
 Projects I did thorugh freeCodeCamp Curriculum.
 
 <h2>Responsive Web Designs</h2>
-1. Build a Survey Form - <a href="https://codepen.io/jennietjia/pen/zYjwdKv">View on CodePen</a>
+<p>1. Build a Survey Form - <a href="https://codepen.io/jennietjia/pen/zYjwdKv" target="_blank">View on CodePen</a></p>
